@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "easy-docs": "~0.0.1",
-    "easy-docs-bootstrap": "~0.0.2"
+    "easy-docs-bootstrap": "~0.0.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
