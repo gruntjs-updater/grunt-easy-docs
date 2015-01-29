@@ -1,0 +1,41 @@
+{
+  "name": "grunt-easy-docs",
+  "description": "Grunt task to generate API documentation (using easy-docs).",
+  "version": "0.0.1",
+  "homepage": "https://github.com/easy-js/grunt-easy-docs",
+  "author": {
+    "name": "Jarid Margolin",
+    "email": "jarid@firstopinionapp.com"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/easy-js/grunt-easy-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/easy-js/grunt-easy-docs/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.24"
+  },
+  "dependencies": {
+    "easy-docs": "~0.0.1",
+    "easy-docs-bootstrap": "~0.0.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin",
+    "jsdoc",
+    "docs"
+  ]
+}
