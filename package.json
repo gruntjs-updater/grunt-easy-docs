@@ -1,7 +1,7 @@
 {
   "name": "grunt-easy-docs",
   "description": "Grunt task to generate API documentation (using easy-docs).",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/easy-js/grunt-easy-docs",
   "author": {
     "name": "Jarid Margolin",
