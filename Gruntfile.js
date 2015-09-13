@@ -44,6 +44,7 @@ grunt.initConfig({
     all: {
       options: {
         'root': './node_modules/easy-docs-bootstrap/preview',
+        'src': './src',
         'dest': '../../../tmp',
         'pages': [{
           'fileName': 'index.html',

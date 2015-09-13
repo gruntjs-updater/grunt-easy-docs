@@ -12,7 +12,7 @@ var grunt = require('grunt');
  * expected
  * ---------------------------------------------------------------------------*/
 
-var expected = grunt.file.read('node_modules/easy-docs-bootstrap/preview/docs/index.html');
+var expected = grunt.file.read('test/fixtures/index.html');
 
 
 /* -----------------------------------------------------------------------------
