@@ -21,7 +21,7 @@
     "node": ">= 0.10.24"
   },
   "dependencies": {
-    "easy-docs": "~0.1.0",
+    "easy-docs": "~0.2.0",
     "easy-docs-bootstrap": "~0.1.0"
   },
   "devDependencies": {
